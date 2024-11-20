@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=welcome+to+nil+メ+'s+github;enjoy+exploring+my+repositories!" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=メ+welcome+to+nil's+github;enjoy+exploring+my+repositories+!+メ" />
 </p>
 
 ---
 
 <h1 align="center"> 👤 ꒰ About Me ꒱ 👤 </h1>
 
-Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into programming, music production, and beatmaking.
+Hey! I'm Nil メ, a passionate developer from Lyon, France. I'm into programming, music production, and beatmaking.
 
 - 🔭 I’m currently working on: `Kinoflix` and `miam-cloud`
 - 🌱 I’m learning: Advanced `Python`, `Flask`, and `full-stack` development as well as `Java` or `C++`, networking along with some basic CS.
@@ -25,16 +25,16 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=planetwiide&layout=compact&langs_count=15&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nildontsleep&layout=compact&langs_count=15&theme=dark"/>
 </div>
 
 ---
 
 <h1 align="center"> 🏯 ꒰ Current Projects ꒱ 🏯 </h1>
 
-- 🎥 [**Kinoflix**](https://github.com/planetwiide/kinoflix/tree/main): A movie streaming platform built with Flask and Python, offering a sleek UI and user-friendly experience.
-- ☁️ [**Miam-cloud**](https://github.com/planetwiide/miam-cloud): A cloud storage platform for securely storing and sharing files, developed with Flask and full-stack web technologies.
-- 📎 [**wht**](https://github.com/planetwiide/wht): a versatile C# application for Discord interractions / stats and server n*king that's worked on rn.
+- 🎥 [**Kinoflix**](https://github.com/nildontsleep/kinoflix/tree/main): A movie streaming platform built with Flask and Python, offering a sleek UI and user-friendly experience.
+- ☁️ [**Miam-cloud**](https://github.com/nildontsleep/miam-cloud): A cloud storage platform for securely storing and sharing files, developed with Flask and full-stack web technologies.
+- 📎 [**wht**](https://github.com/nildontsleep/wht): a versatile C# application for Discord interractions / stats and server n*king that's worked on rn.
   
 
 
@@ -44,11 +44,11 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 <h1 align="center"> ⚡ ꒰ Connect With Me ꒱ ⚡ </h1>
 
 <p align="center">
-  <a href="https://twitter.com/planetwiide"><img width="32px" alt="Twitter" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1245px-Logo_of_Twitter.svg.png"/></a>
+  <a href="https://twitter.com/nildontsleep"><img width="32px" alt="Twitter" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1245px-Logo_of_Twitter.svg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/Nfs8M346Cb" alt="Join my community"><img width="32px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/213px-Discord_Logo_sans_texte.svg.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/planetwiide" alt="Follow me on insta"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png"/></a>
+  <a href="https://instagram.com/nildontsleep" alt="Follow me on insta"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -57,8 +57,8 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 <h1 align="center"> 📊 ꒰ Stats ꒱ 📊 </h1>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=planetwiide&theme=dark&title_color=00aaff">
-  <img width="45%" src="http://github-readme-streak-stats.herokuapp.com/?user=planetwiide&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=00aaff&fire=00aaff&sideNums=00aaff">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=nildontsleep&theme=dark&title_color=00aaff">
+  <img width="45%" src="http://github-readme-streak-stats.herokuapp.com/?user=nildontsleep&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=00aaff&fire=00aaff&sideNums=00aaff">
 </div>
 
 ---
@@ -66,11 +66,11 @@ Hey! I'm Planetwiide, a passionate developer from Lyon, France. I'm into program
 <h1 align="center"> 🏆 ꒰ Achievements ꒱ 🏆 </h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=planetwiide&theme=dark&title_color=00aaff" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nildontsleep&theme=dark&title_color=00aaff" alt="trophies" />
 </p>
 
 ---
 
 <h1 align="center"> 🫱🏻‍🫲🏻 ꒰ Contributions ꒱ 🫱🏻‍🫲🏻 </h1>
 
-[![gh graph](https://github-readme-activity-graph.vercel.app/graph?username=planetwiide&theme=dark&bg_color=000000&color=00aaff&line=ff3068&point=ff3068&area=true&hide_border=true)](https://github.com/planetwiide/github-readme-activity-graph)
+[![gh graph](https://github-readme-activity-graph.vercel.app/graph?username=nildontsleep&theme=dark&bg_color=000000&color=00aaff&line=ff3068&point=ff3068&area=true&hide_border=true)](https://github.com/nildontsleep/github-readme-activity-graph)
