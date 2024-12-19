@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/&color=#fffff&lines=メ+welcome+to+nil's+github;enjoy+exploring+my+repositories+!+メ" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&duration=4000&pause=2000&color=F70000&width=435&lines=%E3%83%A1+welcome+to+nildontsleep's+github+%E3%83%A1;%E3%83%A1+enjoy+your+visit+and+leave+a+star+%E3%83%A1" alt="Typing SVG" /></a>
 </p>
 
 ---
