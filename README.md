@@ -33,7 +33,7 @@ Hey! I'm Nil メ, a passionate developer from Lyon, France. I'm into programming
 <h1 align="center"> 🏯 ꒰ Current Projects ꒱ 🏯 </h1>
 
 - 🎥 [**kinoflix**](https://github.com/nildontsleep/kinoflix/tree/main): A movie streaming platform built with Flask and Python, offering a sleek UI and user-friendly experience.
-- ☁️ [**Miam-cloud**](https://github.com/nildontsleep/miam-cloud): A cloud storage platform for securely storing and sharing files, developed with Flask and full-stack web technologies.  
+- ☁️ [**miam-cloud**](https://github.com/nildontsleep/miam-cloud): A cloud storage platform for securely storing and sharing files, developed with Flask and full-stack web technologies.  
 
 ---
 
