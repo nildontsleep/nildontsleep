@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=メ+welcome+to+nil's+github;enjoy+exploring+my+repositories+!+メ" />
+  <img src="https://readme-typing-svg.demolab.com/&color=fff&lines=メ+welcome+to+nil's+github;enjoy+exploring+my+repositories+!+メ" />
 </p>
 
 ---
