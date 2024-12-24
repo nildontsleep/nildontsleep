@@ -37,7 +37,7 @@ hey! i'm nil メ, a passionate developer from lyon, france. i'm into programming
 <h1 align="center"> ⚡ ꒰ connect with me ꒱ ⚡ </h1>
 
 <p align="center">
-  <a href="https://twitter.com/nildontsleep" title="Twitter"><img src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/nildontsleep" title="X"><img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/Nfs8M346Cb" title="Discord"><img src="https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
