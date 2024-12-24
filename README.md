@@ -41,7 +41,6 @@ hey! i'm nil メ, a passionate developer from lyon, france. i'm into programming
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/Nfs8M346Cb" title="Discord"><img src="https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/nildontsleep" title="Instagram"><img src="https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
