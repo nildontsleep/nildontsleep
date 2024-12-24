@@ -16,14 +16,13 @@ hey! i'm nil メ, a passionate developer from lyon, france. i'm into programming
 <h1 align="center"> 🔧 ꒰ tech stack ꒱ 🔧 </h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-00aaff?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-00aaff?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-00aaff?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-00aaff?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-00aaff?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-00aaff?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-00aaff?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nildontsleep&layout=compact&langs_count=15&theme=dark&title_color=00aaff&bg_color=000000&text_color=ffffff" />
+  <img src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-fcc624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
 ---
@@ -38,19 +37,18 @@ hey! i'm nil メ, a passionate developer from lyon, france. i'm into programming
 <h1 align="center"> ⚡ ꒰ connect with me ꒱ ⚡ </h1>
 
 <p align="center">
-  <a href="https://twitter.com/nildontsleep"><img width="32px" alt="twitter" title="twitter" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/logo_of_twitter.svg/1245px-logo_of_twitter.svg.png"/></a>
+  <a href="https://twitter.com/nildontsleep" title="Twitter"><img src="https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/nfs8m346cb" alt="join my community"><img width="32px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/discord_logo_sans_texte.svg/213px-discord_logo_sans_texte.svg.png"/></a>
+  <a href="https://discord.gg/Nfs8M346Cb" title="Discord"><img src="https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/nildontsleep" alt="follow me on insta"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/instagram_icon.png/768px-instagram_icon.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://instagram.com/nildontsleep" title="Instagram"><img src="https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
 
 <h1 align="center"> 📊 ꒰ stats ꒱ 📊 </h1>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=nildontsleep&theme=dark&title_color=00aaff&bg_color=000000&text_color=ffffff" />
   <img width="45%" src="http://github-readme-streak-stats.herokuapp.com/?user=nildontsleep&theme=dark&date_format=m%20j%5b%2c%20y%5d&ring=00aaff&fire=00aaff&sideNums=00aaff&background=000000&stroke=ffffff" />
 </div>
