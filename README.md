@@ -3,6 +3,6 @@
 
 ```bash
 github.com/nildontsleep
-dc   $  @ni.ll
-x    $  @nil
+dc   $    @ni.ll
+x    $    @nil
 ```
