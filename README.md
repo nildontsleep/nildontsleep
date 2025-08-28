@@ -4,5 +4,5 @@
 
 ```bash
 github.com/nildontsleep
-dc   $    @ni.ll
+dc   $    @9.nini
 ```
