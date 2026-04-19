@@ -4,5 +4,6 @@
 
 ```bash
 github.com/nildontsleep
-dc   $    @9.nini
+dc   $    @vvs.nil
+gunz $    guns.lol/xo.ni
 ```
