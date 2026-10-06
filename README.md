@@ -3,6 +3,6 @@
 
 ```bash
 github.com/nildontsleep
-dc   $    @vvs.nil
+dc   $    @nil92i
 gunz $    guns.lol/xo.ni
 ```
